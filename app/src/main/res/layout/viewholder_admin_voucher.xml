@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp"
+    app:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Header: Code and Status -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="12dp">
+
+            <TextView
+                android:id="@+id/voucherCodeTxt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="WELCOME10"
+                android:textColor="@color/darkBrown"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/statusTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Đang hoạt động"
+                android:textColor="@color/brown"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:paddingHorizontal="8dp"
+                android:paddingVertical="4dp"
+                android:background="@drawable/tab_selected_bg" />
+        </LinearLayout>
+
+        <!-- Description -->
+        <TextView
+            android:id="@+id/voucherDescriptionTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Giảm 10% tối đa 50000 đ"
+            android:textColor="@color/darkBrown"
+            android:textSize="14sp"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Dates -->
+        <TextView
+            android:id="@+id/startDateTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Từ: 01/01/2024 00:00"
+            android:textColor="@color/grey"
+            android:textSize="12sp"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:id="@+id/endDateTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đến: 31/12/2024 23:59"
+            android:textColor="@color/grey"
+            android:textSize="12sp"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Min Order and Usage -->
+        <TextView
+            android:id="@+id/minOrderTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đơn tối thiểu: 100,000 đ"
+            android:textColor="@color/grey"
+            android:textSize="12sp"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:id="@+id/usageTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đã dùng: 5/100"
+            android:textColor="@color/grey"
+            android:textSize="12sp"
+            android:layout_marginBottom="12dp" />
+
+        <!-- Action Buttons -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/editBtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Sửa"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/orange"
+                android:layout_marginEnd="4dp"
+                style="@style/Widget.MaterialComponents.Button" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/toggleActiveBtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Vô hiệu hóa"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/brown"
+                android:layout_marginHorizontal="4dp"
+                style="@style/Widget.MaterialComponents.Button" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/deleteBtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Xóa"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/grey"
+                android:layout_marginStart="4dp"
+                style="@style/Widget.MaterialComponents.Button" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground">
+
+        <!-- Left Side - Branded Section -->
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/teal"
+            android:gravity="center"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/voucherTypeTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kưng ƯU ĐÃI"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/expiringSoonBanner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sắp hết hạn"
+                android:textColor="@color/white"
+                android:textSize="10sp"
+                android:background="@color/brown"
+                android:gravity="center"
+                android:padding="4dp"
+                android:layout_marginTop="8dp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <!-- Right Side - Details -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:background="@color/cream">
+
+            <TextView
+                android:id="@+id/voucherDescriptionTxt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ƯU ĐÃI 30K CHO HÓA ĐƠN TỪ 250K"
+                android:textColor="@color/darkBrown"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/usageLimitTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="01 lượt sử dụng/ngày"
+                android:textColor="@color/grey"
+                android:textSize="11sp"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/voucherDetailsTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Áp dụng khi đặt hàng qua ứng dụng: Đến lấy và Giao hàng"
+                android:textColor="@color/grey"
+                android:textSize="11sp"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/expiryDateTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HSD: 30/11/2025 21:20"
+                android:textColor="@color/grey"
+                android:textSize="11sp"
+                android:layout_marginBottom="8dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/selectBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chọn"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:backgroundTint="@color/teal"
+                app:cornerRadius="8dp"
+                android:layout_gravity="end" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+

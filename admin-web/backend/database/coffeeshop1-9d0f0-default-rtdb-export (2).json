@@ -1,0 +1,2249 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1748598162/banner_pnixuo.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "Esspersso"
+    },
+    {
+      "id": 1,
+      "title": "Cappuccino"
+    },
+    {
+      "id": 2,
+      "title": "Latte"
+    },
+    {
+      "id": 3,
+      "title": "Americano"
+    },
+    {
+      "id": 4,
+      "title": "Hot Chocolate"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "0",
+      "description": "Rich espresso blended with chocolate for a bold, sweet flavor.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png"
+      ],
+      "price": 3.8,
+      "rating": 0,
+      "title": "Mocha Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "Espresso with a hint of citrus peel for a bright aftertaste.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_cafe_v%C3%A0_v%E1%BB%8B_cam_raxdee.png"
+      ],
+      "price": 3.9,
+      "rating": 0,
+      "title": "Citrus Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "Smooth, clean espresso with a gentle roast profile.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006331/Espresso-c%C3%A0_ph%C3%AA_xay_m%E1%BB%8Bn_v%C3%A0_n%C6%B0%E1%BB%9Bc_n%C3%B3ng_d%C6%B0%E1%BB%9Bi_%C3%A1p_su%E1%BA%A5t_cao_eukxgy.png"
+      ],
+      "price": 3.5,
+      "rating": 0,
+      "title": "Light Japanese Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "Traditional, full-bodied espresso with strong aroma.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006363/Espresso-Cafe_nh%E1%BA%A1t_-_s%E1%BB%AFa_v%E1%BB%ABa_klidtm.png"
+      ],
+      "price": 3.2,
+      "rating": 0,
+      "title": "Classic Espresso Shot"
+    },
+    {
+      "categoryId": "0",
+      "description": "Deep-roasted espresso made from finely ground beans.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006331/Espresso-c%C3%A0_ph%C3%AA_xay_m%E1%BB%8Bn_v%C3%A0_n%C6%B0%E1%BB%9Bc_n%C3%B3ng_d%C6%B0%E1%BB%9Bi_%C3%A1p_su%E1%BA%A5t_cao_eukxgy.png"
+      ],
+      "price": 3.4,
+      "rating": 0,
+      "title": "Ground Coffee Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "Bold, intense espresso with caramelized notes.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006326/Espresso_-_Cafe_h%E1%BA%A1t_v%C3%A0_%C4%90%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_k5mtfw.png"
+      ],
+      "price": 3.6,
+      "rating": 0,
+      "title": "Dark Roast Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "Espresso topped with light caramel heart art.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006322/Espresso_-_Cafe_b%E1%BB%99t_v%C3%A0_l%E1%BB%9Bp_crema_b%E1%BB%8Dt_c%C3%A0_ph%C3%AA_v%C3%A0_h%C3%ACnh_tr%C3%A1i_tim_b%E1%BB%8Dt_aabgpm.png"
+      ],
+      "price": 3.8,
+      "rating": 0,
+      "title": "Caramel Art Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "Espresso fusion with creamy layers.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png"
+      ],
+      "price": 4.5,
+      "rating": 0,
+      "title": "Espresso Fusion"
+    },
+    {
+      "categoryId": "2",
+      "description": "Premium matcha with steamed milk & latte art.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/9_ra7zu2.png'"
+      ],
+      "price": 4.9,
+      "rating": 0,
+      "title": "Matcha Latte Leaf Art"
+    },
+    {
+      "categoryId": "2",
+      "description": "Smooth matcha with a creamy and balanced profile.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006352/Latte_-_Tr%C3%A0_xanh_v%C3%A0_s%E1%BB%AFa_%C4%91%E1%BA%ADm_b%C3%A9o_v%C3%A0_t%E1%BA%A1o_h%C3%ACnh_xeidvp.png"
+      ],
+      "price": 4.7,
+      "rating": 0,
+      "title": "Classic Matcha Latte"
+    },
+    {
+      "categoryId": 2,
+      "description": "Deep green, bold matcha for tea lovers.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006353/Latte_-_Tr%C3%A0_xanh_Vi%E1%BB%87t_Nam_v%C3%A0_b%E1%BB%99t_latte_s%E1%BB%AFa_v%C3%A0_s%E1%BB%AFa_m%E1%BB%8Fng_tr%C3%AAn_b%E1%BB%81_m%E1%BA%B7t_b2epim.png"
+      ],
+      "price": 4.8,
+      "rating": 0,
+      "title": "Strong Matcha Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Traditional Vietnamese-style matcha with milk foam.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006343/Latte_-_Tr%C3%A0_xanh_%C4%91%E1%BA%ADm_v%C3%A0_s%E1%BB%AFa_nh%E1%BA%A1t_sor0gj.png"
+      ],
+      "price": 4.6,
+      "rating": 0,
+      "title": "Vietnamese Matcha Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Creamy matcha topped with chewy boba pearls.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006353/Latte_-_Tr%C3%A0_xanh_Vi%E1%BB%87t_Nam_v%C3%A0_b%E1%BB%99t_latte_s%E1%BB%AFa_v%C3%A0_s%E1%BB%AFa_m%E1%BB%8Fng_tr%C3%AAn_b%E1%BB%81_m%E1%BA%B7t_b2epim.png"
+      ],
+      "price": 5.5,
+      "rating": 0,
+      "title": "Matcha Latte with Pearls"
+    },
+    {
+      "categoryId": "2",
+      "description": "Matcha, milk & cream layered beautifully.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006353/Latte_-_Tr%C3%A0_xanh_Vi%E1%BB%87t_Nam_v%C3%A0_b%E1%BB%99t_latte_s%E1%BB%AFa_v%C3%A0_s%E1%BB%AFa_m%E1%BB%8Fng_tr%C3%AAn_b%E1%BB%81_m%E1%BA%B7t_b2epim.png"
+      ],
+      "price": 5.2,
+      "rating": 0,
+      "title": "3-Layer Matcha Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Smooth latte with thick milk foam.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006339/Latte_-_B%E1%BB%99t_tr%C3%A0_xanh_nhi%E1%BB%85n_v%C3%A0_Ch%C3%A2n_Ch%C3%A2u_%C4%90en_kxe5l2.png"
+      ],
+      "price": 4.5,
+      "rating": 0,
+      "title": "Classic Latte Foam"
+    },
+    {
+      "categoryId": "2",
+      "description": "Creamy latte topped with blueberry puree.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png"
+      ],
+      "price": 5.8,
+      "rating": 0,
+      "title": "Blueberry Cream Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Matcha latte topped with bear whipped cream.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png"
+      ],
+      "price": 6.2,
+      "rating": 0,
+      "title": "Matcha Bear Cream Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Milk & espresso topped with brown sugar drizzle.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006341/Latte_-_S%E1%BB%AFa_kem_v%C3%A0_tr%C3%A0_xanh_nh%E1%BA%ADt_b%E1%BA%A3n_zmuobu.png"
+      ],
+      "price": 5.4,
+      "rating": 0,
+      "title": "Brown Sugar Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Matcha latte topped with milk cream & syrup.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006341/Latte_-_Latte_%C3%9D_v%E1%BB%8B_3_l%E1%BB%9Bp_f9vo3s.png"
+      ],
+      "price": 5.6,
+      "rating": 0,
+      "title": "Milk Cream Matcha Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Cherry latte topped with whipped cream & syrup.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006365/Latte_-_Latte_v%E1%BB%8B_d%C3%A2u_v%C3%A0_g%E1%BA%A5u_t%E1%BA%A1o_h%C3%ACnh_kem_ov9aob.png"
+      ],
+      "price": 5.9,
+      "rating": 0,
+      "title": "Cherry Cream Latte"
+    },
+    {
+      "categoryId": "2",
+      "description": "Strawberry–cream latte with cheese foam.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764080423/Latte_-_Latt_v%E1%BB%8B_cherry_v%C3%A0_%E1%BB%91ng_qu%E1%BA%BF_nhi%E1%BB%81u_kem_1_sv8xb3.png"
+      ],
+      "price": 6,
+      "rating": 0,
+      "title": "Strawberry Cheese Latte"
+    },
+    {
+      "categoryId": "3",
+      "description": "Black coffee brewed from premium roasted beans.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006309/Americano_Tr%E1%BB%A9ng_-_C%C3%A0_ph%C3%AA_v%C3%A0_l%E1%BB%9Bp_tr%E1%BB%A9ng_m%E1%BB%8Fng_gbx30b.png"
+      ],
+      "price": 3.2,
+      "rating": 0,
+      "title": "Classic Americano"
+    },
+    {
+      "categoryId": "3",
+      "description": "Refreshing iced americano with a bold finish.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006309/Americano_Tr%E1%BA%AFng_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_ux9yrk.png"
+      ],
+      "price": 3.4,
+      "rating": 0,
+      "title": "Iced Americano"
+    },
+    {
+      "categoryId": "3",
+      "description": "Americano topped with fluffy egg cream.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006307/Americano_Red_Eye_-_C%C3%A0_ph%C3%AA_n%C3%B3ng_%E1%BB%A7_l%C3%A2u_says57.png"
+      ],
+      "price": 4.2,
+      "rating": 0,
+      "title": "Egg Americano"
+    },
+    {
+      "categoryId": "3",
+      "description": "Light iced americano with milk splash.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006307/Americano_M%E1%BA%ADt_Ong_-_C%C3%A0_ph%C3%AA_v%C3%A0_M%E1%BA%ADt_Ong_v%C3%A0ng_bqjssa.png"
+      ],
+      "price": 3.7,
+      "rating": 0,
+      "title": "White Americano"
+    },
+    {
+      "categoryId": "3",
+      "description": "Citrus-infused iced americano with orange zest.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006306/Americano_%C4%91%C3%A1_-_C%C3%A0_ph%C3%AA_v%C3%A0_n%C6%B0%E1%BB%9Bc_%C4%91%C3%A1_udyxfa.png"
+      ],
+      "price": 4,
+      "rating": 0,
+      "title": "Orange Americano"
+    },
+    {
+      "categoryId": "3",
+      "description": "Iced americano with fresh mint.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006309/Americano_B%E1%BA%A1c_H%C3%A0_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_pha_b%E1%BA%A1c_h%C3%A0_cu9etb.png"
+      ],
+      "price": 4.1,
+      "rating": 0,
+      "title": "Mint Americano"
+    },
+    {
+      "categoryId": "3",
+      "description": "Americano with an extra espresso shot.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006304/Americano_-_C%C3%A0_ph%C3%AA_v%C3%A0_n%C6%B0%E1%BB%9Bc_n%C3%B3ng_t2rlkf.png"
+      ],
+      "price": 4.5,
+      "rating": 0,
+      "title": "Red Eye Americano"
+    },
+    {
+      "categoryId": "3",
+      "description": "Americano topped with silky whipped cream.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006308/2Americano_kem_tr%E1%BB%A9ng_-_C%C3%A0_ph%C3%AA_v%C3%A0_tr%E1%BB%A9ng_1_x1lxrf.png"
+      ],
+      "price": 4.3,
+      "rating": 0,
+      "title": "Cream Americano"
+    },
+    {
+      "categoryId": "1",
+      "description": "Cappuccino topped with rich cocoa powder.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png"
+      ],
+      "price": 4.3,
+      "rating": 0,
+      "title": "Cappuccino Cocoa"
+    },
+    {
+      "categoryId": "1",
+      "description": "Authentic Italian cappuccino topped with chocolate dust.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006316/Cappuccino_Thi%C3%AAn_nga_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_t%E1%BA%A1o_h%C3%ACnh_rnpfyo.png"
+      ],
+      "price": 4.5,
+      "rating": 0,
+      "title": "Italian Cappuccino"
+    },
+    {
+      "categoryId": "1",
+      "description": "Cappuccino with cute animal latte art.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006314/Cappuccino_t%E1%BA%A1o_h%C3%ACnh_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_t%E1%BA%A1o_h%C3%ACnh_theo_%C3%BD_mu%E1%BB%91n_gqmn9x.png"
+      ],
+      "price": 4.8,
+      "rating": 0,
+      "title": "Animal Art Cappuccino"
+    },
+    {
+      "categoryId": "1",
+      "description": "Cappuccino topped with heart latte art.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006314/Cappuccino_t%E1%BA%A1o_h%C3%ACnh_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_t%E1%BA%A1o_h%C3%ACnh_theo_%C3%BD_mu%E1%BB%91n_gqmn9x.png"
+      ],
+      "price": 4.7,
+      "rating": 0,
+      "title": "Heart Art Cappuccino"
+    },
+    {
+      "categoryId": "1",
+      "description": "Beautiful swan latte art on creamy cappuccino.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006314/Cappuccino_ca_cao_-_C%C3%A0_ph%C3%AA_s%E1%BB%AFa_-_B%E1%BB%99t_ca_cao_sthuya.png"
+      ],
+      "price": 5,
+      "rating": 0,
+      "title": "Swan Art Cappuccino"
+    },
+    {
+      "categoryId": "1",
+      "description": "Balanced cappuccino with smooth foam.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034282/10_l53vw4.png"
+      ],
+      "price": 4.2,
+      "rating": 0,
+      "title": "Traditional Cappuccino"
+    },
+    {
+      "categoryId": "1",
+      "description": "Cappuccino with classic leaf latte art.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034282/1_xrreub.png"
+      ],
+      "price": 4.4,
+      "rating": 0,
+      "title": "Leaf Art Cappuccino"
+    }
+  ],
+  "Popular": [
+    {
+      "description": "Espresso fusion with creamy layers.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png"
+      ],
+      "price": 4.5,
+      "rating": 0,
+      "title": "Espresso Fusion"
+    },
+    {
+      "description": "Creamy latte topped with blueberry puree.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png"
+      ],
+      "price": 5.8,
+      "rating": 0,
+      "title": "Blueberry Cream Latte"
+    },
+    {
+      "description": "Matcha latte topped with bear whipped cream.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png"
+      ],
+      "price": 6.2,
+      "rating": 0,
+      "title": "Matcha Bear Cream Latte"
+    },
+    {
+      "description": "Strawberry–cream latte with cheese foam.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764080423/Latte_-_Latt_v%E1%BB%8B_cherry_v%C3%A0_%E1%BB%91ng_qu%E1%BA%BF_nhi%E1%BB%81u_kem_1_sv8xb3.png"
+      ],
+      "price": 6,
+      "rating": 0,
+      "title": "Strawberry Cheese Latte"
+    },
+    {
+      "description": "Beautiful swan latte art on creamy cappuccino.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006314/Cappuccino_ca_cao_-_C%C3%A0_ph%C3%AA_s%E1%BB%AFa_-_B%E1%BB%99t_ca_cao_sthuya.png"
+      ],
+      "price": 5,
+      "rating": 0,
+      "title": "Swan Art Cappuccino"
+    },
+    {
+      "description": "Cappuccino with cute animal latte art.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006314/Cappuccino_t%E1%BA%A1o_h%C3%ACnh_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_t%E1%BA%A1o_h%C3%ACnh_theo_%C3%BD_mu%E1%BB%91n_gqmn9x.png"
+      ],
+      "price": 4.8,
+      "rating": 0,
+      "title": "Animal Art Cappuccino"
+    },
+    {
+      "description": "Refreshing iced americano with a bold finish.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006309/Americano_Tr%E1%BA%AFng_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%A7a_t%C6%B0%C6%A1i_ux9yrk.png"
+      ],
+      "price": 3.4,
+      "rating": 0,
+      "title": "Iced Americano"
+    },
+    {
+      "description": "Milk & espresso topped with brown sugar drizzle.",
+      "extra": "",
+      "picUrl": [
+        "https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006341/Latte_-_S%E1%BB%AFa_kem_v%C3%A0_tr%C3%A0_xanh_nh%E1%BA%ADt_b%E1%BA%A3n_zmuobu.png"
+      ],
+      "price": 5.4,
+      "rating": 0,
+      "title": "Brown Sugar Latte"
+    }
+  ],
+  "addresses": {
+    "1764149624664": {
+      "f439854c-1841-491b-b139-ad8b9f0e42ad": {
+        "address": "HCM",
+        "id": "f439854c-1841-491b-b139-ad8b9f0e42ad",
+        "isDefault": false,
+        "name": "Hoai Nam",
+        "phone": "0846230059"
+      }
+    },
+    "1764166209416": {
+      "f439854c-1841-491b-b139-ad8b9f0e42ad": {
+        "address": "HCM",
+        "id": "f439854c-1841-491b-b139-ad8b9f0e42ad",
+        "isDefault": false,
+        "name": "Hoai Nam",
+        "phone": "0846230059"
+      }
+    },
+    "1764168821436": {
+      "f439854c-1841-491b-b139-ad8b9f0e42ad": {
+        "address": "HCM",
+        "id": "f439854c-1841-491b-b139-ad8b9f0e42ad",
+        "isDefault": false,
+        "name": "Hoai Nam",
+        "phone": "0846230059"
+      }
+    },
+    "admin_1764100290009": {
+      "f439854c-1841-491b-b139-ad8b9f0e42ad": {
+        "address": "HCM",
+        "id": "f439854c-1841-491b-b139-ad8b9f0e42ad",
+        "isDefault": false,
+        "name": "Hoai Nam",
+        "phone": "0846230059"
+      }
+    },
+    "admin_1764174027906": {
+      "f439854c-1841-491b-b139-ad8b9f0e42ad": {
+        "address": "HCM",
+        "id": "f439854c-1841-491b-b139-ad8b9f0e42ad",
+        "isDefault": false,
+        "name": "Hoai Nam",
+        "phone": "0846230059"
+      }
+    },
+    "user_1764728819213": {
+      "f439854c-1841-491b-b139-ad8b9f0e42ad": {
+        "address": "HCM",
+        "id": "f439854c-1841-491b-b139-ad8b9f0e42ad",
+        "isDefault": false,
+        "name": "Hoai Nam",
+        "phone": "0846230059"
+      }
+    },
+    "user_1764759356201": {
+      "f439854c-1841-491b-b139-ad8b9f0e42ad": {
+        "address": "HCM",
+        "id": "f439854c-1841-491b-b139-ad8b9f0e42ad",
+        "isDefault": false,
+        "name": "Hoai Nam",
+        "phone": "0846230059"
+      }
+    }
+  },
+  "carts": {
+    "1764149624664": {
+      "Blueberry Cream Latte": {
+        "item": "{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"}",
+        "quantity": 5
+      }
+    },
+    "1764166209416": {
+      "Blueberry Cream Latte": {
+        "item": "{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"}",
+        "quantity": 5
+      }
+    },
+    "1764759690019": {
+      "Blueberry Cream Latte": {
+        "item": "{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"}",
+        "quantity": 1
+      }
+    },
+    "admin_1764100290009": {
+      "Blueberry Cream Latte": {
+        "item": "{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"}",
+        "quantity": 9
+      }
+    },
+    "admin_1764174027906": {
+      "Blueberry Cream Latte": {
+        "item": "{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"}",
+        "quantity": 5
+      }
+    },
+    "user_1764728819213": {
+      "Blueberry Cream Latte": {
+        "item": "{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"}",
+        "quantity": 18
+      }
+    },
+    "user_1764759356201": {
+      "Blueberry Cream Latte": {
+        "item": "{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"}",
+        "quantity": 18
+      }
+    }
+  },
+  "orders": {
+    "1764015318340": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      }
+    },
+    "1764149624664": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "ab56a62a-67c5-4324-9119-80889e7b16b1": {
+        "customerName": "Nguyen Anh",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764151600694,
+        "orderId": "ab56a62a-67c5-4324-9119-80889e7b16b1",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0359269323",
+        "status": "Pending",
+        "totalPrice": 31.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      }
+    },
+    "1764166209416": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      }
+    },
+    "1764168821436": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "2ce4d99b-8ac3-4cc0-9272-5d606692b16d": {
+        "customerName": "Kim Anh Tien",
+        "deliveryAddress": "6B, Vinh loc",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764173046387,
+        "orderId": "2ce4d99b-8ac3-4cc0-9272-5d606692b16d",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344436471",
+        "status": "Pending",
+        "totalPrice": 4.5
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "62534fb9-1371-4ac0-ac26-29e90fda9572": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "A9/6B, Vĩnh Lộc B, Bình Chánh, TP HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764168996724,
+        "orderId": "62534fb9-1371-4ac0-ac26-29e90fda9572",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344477638",
+        "status": "Pending",
+        "totalPrice": 307.4
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "710dfa3c-c820-494e-89eb-81c907dd95d0": {
+        "customerName": "Nguyễn Ngọc Duy",
+        "deliveryAddress": "A9, 64B, Vĩnh Lộc, Bình Chánh, TP.HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764174192068,
+        "orderId": "710dfa3c-c820-494e-89eb-81c907dd95d0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344436474",
+        "status": "Pending",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      }
+    },
+    "1764759690019": {
+      "edc1e2ee-b859-48b2-ab10-f4a0b35107d6": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764759763773,
+        "orderId": "edc1e2ee-b859-48b2-ab10-f4a0b35107d6",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344436472",
+        "status": "Pending",
+        "totalPrice": 5.8
+      }
+    },
+    "admin_1764100290009": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      }
+    },
+    "admin_1764174027906": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      }
+    },
+    "user_1764728819213": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      },
+      "order_1764729676860_hdnjt28iv": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[]",
+        "orderDate": 1764729676860,
+        "orderId": "order_1764729676860_hdnjt28iv",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230054",
+        "status": "Pending",
+        "totalPrice": 12.4
+      },
+      "order_1764730207497_ypxh5s427": {
+        "customerName": "Nam Nma",
+        "deliveryAddress": "HCM",
+        "items": "[]",
+        "orderDate": 1764730207497,
+        "orderId": "order_1764730207497_ypxh5s427",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230054",
+        "status": "Pending",
+        "totalPrice": 28.8
+      }
+    },
+    "user_1764759356201": {
+      "03b24b50-3fce-4ccb-8d21-b363310daf23": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":23}]",
+        "orderDate": 1764381639374,
+        "orderId": "03b24b50-3fce-4ccb-8d21-b363310daf23",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 120.06
+      },
+      "0503f2d5-6870-4833-819d-ba126e1a921b": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764377994706,
+        "orderId": "0503f2d5-6870-4833-819d-ba126e1a921b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "205c552a-14a5-42fc-98c3-4bcc4ca35ffb": {
+        "customerName": "Kim Huy",
+        "deliveryAddress": "quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764378314845,
+        "orderId": "205c552a-14a5-42fc-98c3-4bcc4ca35ffb",
+        "paymentMethod": "Ví điện tử",
+        "phoneNumber": "0955588845",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "257420c2-4307-4d3b-89a9-a4b3e184449f": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":2}]",
+        "orderDate": 1764379009623,
+        "orderId": "257420c2-4307-4d3b-89a9-a4b3e184449f",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 8.1
+      },
+      "30f31a83-36dc-4904-98a8-c521a4c70db5": {
+        "customerName": "Nam Hoai",
+        "deliveryAddress": "471 Nguyen Van Qua",
+        "items": "[{\"item\":{\"categoryId\":\"0\",\"description\":\"Rich espresso blended with chocolate for a bold, sweet flavor.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006330/Espresso-_S%E1%BB%AFa_%C4%91en_v%C3%A0_soclola_cafe_dpjbzt.png\"],\"price\":3.8,\"rating\":0.0,\"title\":\"Mocha Espresso\"},\"quantity\":1}]",
+        "orderDate": 1764015571468,
+        "orderId": "30f31a83-36dc-4904-98a8-c521a4c70db5",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 3.8
+      },
+      "3769269d-1eaf-4ca6-9642-5132b0f7f9d2": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2},{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103780194,
+        "orderId": "3769269d-1eaf-4ca6-9642-5132b0f7f9d2",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 16.1
+      },
+      "3c286209-451a-4097-8cc8-d30f83de2fe0": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764103906422,
+        "orderId": "3c286209-451a-4097-8cc8-d30f83de2fe0",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe": {
+        "customerName": "Anh Tật",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":2}]",
+        "orderDate": 1764378724480,
+        "orderId": "4e1fd19e-9531-410e-93fe-bfe2fa06b0fe",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230056",
+        "status": "Pending",
+        "totalPrice": 11.6
+      },
+      "618590f1-fa8b-47f3-ac02-1e6d2775d7fa": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764152185305,
+        "orderId": "618590f1-fa8b-47f3-ac02-1e6d2775d7fa",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 12
+      },
+      "6a1b286f-3a99-408a-a662-f46e8b5e3612": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104707460,
+        "orderId": "6a1b286f-3a99-408a-a662-f46e8b5e3612",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "738ec95a-9a35-402a-991a-aa5e53597f17": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764104252354,
+        "orderId": "738ec95a-9a35-402a-991a-aa5e53597f17",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 5.8
+      },
+      "8349d7c0-ea0d-427a-927d-c9ad97c7d477": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "1 HCm",
+        "items": "[{\"item\":{\"categoryId\":\"1\",\"description\":\"Cappuccino topped with rich cocoa powder.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006323/Cappuccino_%C3%9D_-_C%C3%A0_ph%C3%AA_v%C3%A0_s%E1%BB%AFa_t%C6%B0%C6%A1i_%C4%91%C3%A1nh_b%E1%BB%8Dt_nhi%E1%BB%81u_truy%E1%BB%81n_th%E1%BB%91ng_yzn4gn.png\"],\"price\":4.3,\"rating\":0.0,\"title\":\"Cappuccino Cocoa\"},\"quantity\":6}]",
+        "orderDate": 1764103436620,
+        "orderId": "8349d7c0-ea0d-427a-927d-c9ad97c7d477",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Processing",
+        "totalPrice": 25.799999999999997
+      },
+      "88405e1a-796e-44c6-b49d-548ede21123b": {
+        "customerName": "Hoai Nam",
+        "deliveryAddress": "HCM City",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Creamy latte topped with blueberry puree.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006355/Latte_-_Tr%C3%A0nh_Xanh_Vi%E1%BB%87t_Qu%E1%BB%91c_v%C3%A0_kem_b%E1%BB%8Dt_soda_iloue7.png\"],\"price\":5.8,\"rating\":0.0,\"title\":\"Blueberry Cream Latte\"},\"quantity\":48}]",
+        "orderDate": 1764726611245,
+        "orderId": "88405e1a-796e-44c6-b49d-548ede21123b",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Pending",
+        "totalPrice": 250.55999999999997
+      },
+      "89835972-9b6f-446a-989e-c4af62caa1e8": {
+        "customerName": "Nam Ngu",
+        "deliveryAddress": "B",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":7}]",
+        "orderDate": 1764171558605,
+        "orderId": "89835972-9b6f-446a-989e-c4af62caa1e8",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0359269323",
+        "status": "Completed",
+        "totalPrice": 31.5
+      },
+      "a5846668-1547-4c8f-94d5-a1b0b1bca3ec": {
+        "customerName": "Hoai Nma",
+        "deliveryAddress": "HCM",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Espresso fusion with creamy layers.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1760034281/6_whjo3t.png\"],\"price\":4.5,\"rating\":0.0,\"title\":\"Espresso Fusion\"},\"quantity\":1}]",
+        "orderDate": 1764104540644,
+        "orderId": "a5846668-1547-4c8f-94d5-a1b0b1bca3ec",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230059",
+        "status": "Completed",
+        "totalPrice": 4.5
+      },
+      "f9a47e70-b8e6-4035-9485-eb89d04710d3": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12",
+        "items": "[{\"item\":{\"categoryId\":\"\",\"description\":\"Matcha latte topped with bear whipped cream.\",\"extra\":\"\",\"numberInCart\":0,\"picUrl\":[\"https://res.cloudinary.com/dpaovwqxs/image/upload/v1764006371/Latte_-_Latte_v%E1%BB%8B_truy%E1%BB%81n_th%E1%BB%91ng_v%C3%A0_kem_nhi%E1%BB%81u_nxz8h1.png\"],\"price\":6.2,\"rating\":0.0,\"title\":\"Matcha Bear Cream Latte\"},\"quantity\":1}]",
+        "orderDate": 1764379936846,
+        "orderId": "f9a47e70-b8e6-4035-9485-eb89d04710d3",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344474114",
+        "status": "Pending",
+        "totalPrice": 6.2
+      },
+      "order_1764759387364_nk6519rqm": {
+        "customerName": "Hoi Nam",
+        "deliveryAddress": "HCM",
+        "items": "[]",
+        "orderDate": 1764759387364,
+        "orderId": "order_1764759387364_nk6519rqm",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0846230054",
+        "status": "Pending",
+        "totalPrice": 18
+      }
+    },
+    "user_1764760338161": {
+      "order_1764760411904_p7tej21zc": {
+        "customerName": "Kim Ngọc Tiến",
+        "deliveryAddress": "Quận 12, TP. Hồ Chí Minh",
+        "items": "[]",
+        "orderDate": 1764760411904,
+        "orderId": "order_1764760411904_p7tej21zc",
+        "paymentMethod": "Tiền mặt",
+        "phoneNumber": "0344436471",
+        "status": "Pending",
+        "totalPrice": 9
+      }
+    }
+  },
+  "users": {
+    "1764015318340": {
+      "avatarPath": "",
+      "createdAt": 1764015318340,
+      "email": "nam2612@gmail.com",
+      "fullName": "Nam Hoai",
+      "isAdmin": false,
+      "password": "Nam26122005@",
+      "phoneNumber": "0846230059",
+      "userId": "1764015318340"
+    },
+    "1764149624664": {
+      "avatarPath": "",
+      "createdAt": 1764149624664,
+      "email": "anhthien@gmail.com",
+      "fullName": "Nguyen Anh Thien",
+      "isAdmin": false,
+      "password": "12345678",
+      "phoneNumber": "0359269322",
+      "userId": "1764149624664"
+    },
+    "1764166209416": {
+      "avatarPath": "",
+      "createdAt": 1764166209416,
+      "email": "anhnn@gmail.com",
+      "fullName": "Nguyen Anh",
+      "isAdmin": false,
+      "password": "15112005",
+      "phoneNumber": "0359269323",
+      "userId": "1764166209416"
+    },
+    "1764168821436": {
+      "avatarPath": "",
+      "createdAt": 1764168821436,
+      "email": "kimngoctien10112004@gmail.com",
+      "fullName": "Kim Ngọc Tiến",
+      "isAdmin": false,
+      "password": "Tien123@",
+      "phoneNumber": "0344436471",
+      "userId": "1764168821436"
+    },
+    "1764759690019": {
+      "avatarPath": "",
+      "createdAt": 1764759690019,
+      "email": "",
+      "fullName": "",
+      "isAdmin": false,
+      "password": "Tien123@",
+      "phoneNumber": "0344436472",
+      "userId": "1764759690019"
+    },
+    "admin_1764100290009": {
+      "avatarPath": "",
+      "createdAt": 1764100290009,
+      "email": "admin@coffeeshop.com",
+      "fullName": "Administrator",
+      "isAdmin": true,
+      "password": "admin123",
+      "phoneNumber": "admin",
+      "userId": "admin_1764100290009"
+    },
+    "admin_1764174027906": {
+      "avatarPath": "",
+      "createdAt": 1764174027906,
+      "email": "admin@coffeeshop.com",
+      "fullName": "Administrator",
+      "isAdmin": true,
+      "password": "admin123",
+      "phoneNumber": "admin",
+      "userId": "admin_1764174027906"
+    },
+    "user_1764728819213": {
+      "avatarPath": "",
+      "createdAt": 1764728832441,
+      "email": "",
+      "fullName": "0846230054",
+      "isAdmin": false,
+      "password": "",
+      "phoneNumber": "0846230054",
+      "userId": "user_1764728819213"
+    },
+    "user_1764759356201": {
+      "avatarPath": "",
+      "createdAt": 1764759367727,
+      "email": "",
+      "fullName": "0846230054",
+      "isAdmin": false,
+      "password": "",
+      "phoneNumber": "0846230054",
+      "userId": "user_1764759356201"
+    },
+    "user_1764760338161": {
+      "avatarPath": "",
+      "createdAt": 1764760345262,
+      "email": "",
+      "fullName": "0344436471",
+      "isAdmin": false,
+      "password": "",
+      "phoneNumber": "0344436471",
+      "userId": "user_1764760338161"
+    }
+  }
+}

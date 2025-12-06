@@ -1,0 +1,65 @@
+version: '3.8'
+
+services:
+  # MySQL Database (Production)
+  mysql:
+    image: mysql:8.0
+    container_name: coffeeshop-mysql-prod
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${DB_NAME}
+      MYSQL_USER: ${DB_USERNAME}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - mysql_prod_data:/var/lib/mysql
+      - ./database/database.sql:/docker-entrypoint-initdb.d/database.sql:ro
+    networks:
+      - coffeeshop-network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${DB_ROOT_PASSWORD}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    # Không expose port ra ngoài trong production (chỉ backend mới truy cập được)
+    # ports:
+    #   - "3306:3306"
+
+  # Backend API (Production)
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: coffeeshop-backend-prod
+    restart: always
+    ports:
+      - "${PORT:-3000}:3000"
+    environment:
+      # Database connection
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_USERNAME: ${DB_USERNAME}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_NAME: ${DB_NAME}
+      
+      # Server
+      PORT: 3000
+      NODE_ENV: production
+      
+      # JWT
+      JWT_SECRET: ${JWT_SECRET}
+      JWT_EXPIRES_IN: ${JWT_EXPIRES_IN:-7d}
+    depends_on:
+      mysql:
+        condition: service_healthy
+    networks:
+      - coffeeshop-network
+
+volumes:
+  mysql_prod_data:
+    driver: local
+
+networks:
+  coffeeshop-network:
+    driver: bridge
+

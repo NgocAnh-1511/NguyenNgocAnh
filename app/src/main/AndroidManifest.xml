@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <!-- Permissions for accessing images -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" 
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:usesCleartextTraffic="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CoffeeShop" >
+        <activity
+            android:name=".Activity.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ItemsListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SplashActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.CartActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.LoginActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name=".Activity.ProfileActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.ChangePasswordActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name=".Activity.CompleteProfileActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name=".Activity.AccountInfoActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.OrderActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.OrderDetailActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.CheckoutActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name=".Activity.SearchActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.WishlistActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.AddressListActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.OrderDrinkActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.AdminOrderActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.RevenueReportActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.VoucherListActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".Activity.AdminVoucherActivity"
+            android:exported="false" >
+        </activity>
+    </application>
+
+</manifest>

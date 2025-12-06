@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#f69724</color>
+    <color name="buttonOrange">#E57835</color>
+    <color name="cream">#efdec9</color>
+    <color name="lightCream">#ded9d1</color>
+    <color name="grey">#8d8d8d</color>
+    <color name="LightGrey">#f6f6f6</color>
+    <color name="brown">#7e4616</color>
+    <color name="darkBrown">#220c01</color>
+    <color name="logoBackground">#FDF1DB</color>
+    <color name="darkOrange">#D2691E</color>
+    <color name="menuDivider">#E0E0E0</color>
+    <color name="lightPurple">#E8D5FF</color>
+    <color name="purple">#9B59B6</color>
+    <color name="darkPurple">#7D3C98</color>
+    <color name="teal">#16A085</color>
+    <color name="darkTeal">#138D75</color>
+
+</resources>
